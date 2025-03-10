@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_german:
 ### EDAIN ###
 # Edain
 #   House of Bëor
@@ -29,7 +29,7 @@
 #   Zîmrathânai
 #   Tantûrakiz
 
- dwarven_ethnicity:0 "Dwarven"
+ dwarven_ethnicity:0 "Zwerg"
  firebeard_ethnicity:0 "Blacklock"
  blacklock_ethnicity:0 "Firebeard"
  
