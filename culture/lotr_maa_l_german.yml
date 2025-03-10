@@ -198,7 +198,7 @@
  blacklock_crossbowmen_flavor:0 "The "Yellow Mountains Scouts" venture across the hillsides, always on the watch for their foul foes." 
  blacklock_pikemen:0 "Naikhdiri" #Companion Wall
  blacklock_pikemen_flavor:0 "Blacklock warriors spend more time with their brothers in arms than their families. becoming true "Companion Walls". Wether guarding War Mansions while the host is on campaign, or fighting as mercenaries, they are always prepared for combat."
- blacklock_engineers:0 "Blacklock Engineers"
+ blacklock_engineers:0 "Schwarzschmied-Pioniere"
  blacklock_engineers_flavor:0 "Masters of constuction and excavation, these Dwarves can both swifty raise and lower halls. They are armed with "Blacklock powder", a inelegant excavation tool now turned to martial work."
 
  ## Stiffbeards ##
@@ -214,7 +214,7 @@
  undying_of_khazad_dum:0 "Nêmahinkhêd" #Undying
  undying_of_khazad_dum_flavor:0 "The ancient and elite forces of Khazad-dûm, the "Undying" bear great blades, ornate armor, and are rumored to gird themselves with mithril chainmail."  
 
- blacklock_mercenaries:0 "Blacklock Mercenaries"
+ blacklock_mercenaries:0 "Schwarzschmied-Söldner"
  blacklock_mercenaries_flavor:0 "Blacklock Mercenary Description"
 
  ### Aduniac ###
@@ -226,9 +226,9 @@
  abrazanim_warbows:0 "Abrazanim Nardubawîb"
  abrazanim_warbows_flavor:0 "For the King's Men, archery is an ancient tradition. The noblest among their ranks wield antique steelbows renowned for letting loose arrows with such strength that they cause a distinct whistle in the wind."
  ## Ar-Adunaim ##
- narunaru_royal_guard:0 "Naru n'Aru Royal Guard"
+ narunaru_royal_guard:0 "Königliche Naru n'Aru-Garde"
  narunaru_royal_guard_flavor:0 "Naru n'Aru is Adûnaic for King's Men for these men are the heirs of ancient Númenor. They claim allegiance to the ideals of Ar-Pharazôn the Golden, last king of Númenor and do not acknowledge the legitimacy of the line of Elendil and the claims of the Faithful."
- adunaim_armsmen:0 "Adûnâim Armsmen"
+ adunaim_armsmen:0 "Adûnâim-Waffenknechte"
  adunaim_armsmen_flavor:0 "The lords of Ar-Adûnâim claim lordship to the lost throne of Númenor and that of all realms in exile, this have lead many who claim kinship to the King's men uniting and fight under the same cause, these are the Adûnâim Armsmen."
  ## Castamir ##
  adunakhori:0 "Adûnakhôri"
@@ -236,155 +236,155 @@
  umbar_usurpers:0 "Zimranardû"
  umbar_usurpers_flavor:0 "Zimranardû or 'Jewel-soldiers' the main fighting force of the Castamir House, also called "the Umbar Usurpers" by their foes were originally Gondorians, faithful to Castamir, who believed only true-blooded Númenóreans should hold the throne of Gondor."
  ## Sauron faith ##
- temple_knights_of_the_eye:0 "Servants of the Eye"
+ temple_knights_of_the_eye:0 "Diener des Auges"
  temple_knights_of_the_eye_flavor:0 "Black Númenóreans whom given themselves into service of the Lidless Eye. Being cold executioners as they massacre the enemy ranks, with fearsome charges and great swords. These harbingers of darkness are a foe of terror that only the bravest can hope to stand against."
 
  ## Easterling ##
- szrel_kain_executioners:0 "Szrel-Kain Executioners"
+ szrel_kain_executioners:0 "Szrel-Kain-Henker"
  szrel_kain_executioners_flavor:0 "Trained in the depths of the Seat of Tyrants. The Executioners are faceless agents of the Tyrant of Szreldor. Acting as an elite fighting force when gathered, these men and women of immense cruelty pursue their foes with gilded glaives "
 
- dragon_knight_horse_archers:0 "Dragon-Knights"
+ dragon_knight_horse_archers:0 "Drachenritter"
  dragon_knight_horse_archers_flavor:0 "Forged in the crucible of war that is the Rhunic Steppe, the Dragon-Knights bring a fiery death at rapid pace and distant ranges. Brutal enforcers and noble knights of renown, it is the dream of many an Easterling child to join their ranks."
 
  ## Khand ##
- variag_horse_archers:0 "Variag Horse Archers"
+ variag_horse_archers:0 "Berittene Variag-Bogenschützen"
  variag_horse_archers_flavor:0 "Since time immemorial, the compound bows of the horse-bound Variags, wrought from the horns of the Kine of Rhûn, have struck fear into the peoples of central Middle-earth."
- windriders_of_khand:0 "Windriders of Khand"
+ windriders_of_khand:0 "Windreiter von Khand"
  windriders_of_khand_flavor:0 "From the windswept plains of Khand, the Windriders are feared near and far, raiders that will travel the whole earth."
- variag_axemen:0 "Variag Axemen"
+ variag_axemen:0 "Variag-Axtkämpfer"
  variag_axemen_flavor:0 "Wielding short axes on horseback and great hewing axes on foot, the Men of Khand are fierce on the field."
- variag_pikemen:0 "Variag Long Pikemen"
+ variag_pikemen:0 "Variag-Speerträger"
  variag_pikemen_flavor:0 "Long pikement form the main infantry of the Khand Easterlings, and are known for their golden-bronze scaled armor, helmets and long pikes."
 
 ### Dorwinion ###
- vintner_court_knights:0 "Vintner Court Paladins"
+ vintner_court_knights:0 "Vintner-Hofpaladine"
  vintner_court_knights_flavor:0 "Clad in shining armour and gambesons of deep burgundy, these skilled hoursemen have risen from the low nobility of the Winelords, seeking to prove their worth in battle."
- thorn_guard:0 "Thorn Guard"
+ thorn_guard:0 "Dornengarde"
  thorn_guard_flavor:0 "Hired on permanent retainers by the Master Merchants, these halberdiers guard trade caravans in times of peace but are more than capable of defending the realm when war rears its ugly head."
- vineyard_bowmen:0 "Vineyard Bowmen"
+ vineyard_bowmen:0 "Weingut-Bogenschützen"
  vineyard_bowmen_flavor:0 "The strongest and fastest labourers are picked from Dorwinion's fields are afforded time to train as archers to ward off Easterling raids. While not as skilled as the professional soldiery, they offer an edge over the common levy."
 
 ### Donan ###
- donan_slingers:0 "Donan Slingers"
+ donan_slingers:0 "Donanische Schleuderschützen"
  donan_slingers_flavor:0 "In the scortching sun of Harondor and Near Harad, the Donan people cling to their hills and mountains for protection from invaders. Because of this, nearly every man and woman has gained some manner of skill with a sling."
 
  ### Mordor ###
  olog_hai:0 "Olog-hai"
  olog_hai_flavor:0 "The Olog-hai are described as being taller than a Man, covered in spiky scales, carrying war hammers, large swords, or spiked maces, and bucklers."
- caragor_pack:0 "Caragor Pack"
+ caragor_pack:0 "Caragorrudel"
  caragor_pack_flavor:0 "The fierce and wild Caragor of Mordor prowl its desolate landscape, searching for prey to feast upon. Working in packs, they're capable of downing even the largest of prey with ruthless efficiency."
- orc_pikemen:0 "Orc Pikemen"
+ orc_pikemen:0 "Ork-Speerträger"
  orc_pikemen_flavor:0 "Wielding viciously barbed pikes and trained with brutal discipline, in battle, they form an unyielding wall of spears, ready to skewer any who defy the Dark Lord's dominion."
  orc_trackers: "Smakurr"
  orc_trackers_flavor: "The Orcish Trackers (Or."Gayirmi") or Snufflers (Or."Smakurr") were a special breed of lesser Orcs. They were small, swarthy and squat with wide nostrils and had a superior sense of smell. They were skilled Hunters, Archers, Scouts and Spies."
- mountain_troll:0 "Mountain Trolls"
+ mountain_troll:0 "Bergtrolle"
  mountain_troll_flavor:0 "Mountain Trolls had only the intelligence of the simplest of animals, making them suitable to preform heavy labour and basic tasks. When not dominated by a greater power, they lived in savaged packs in the mountain lands, existing as instinct-driven predators of the lowest kind."
  # hill_troll:0 "Hill Trolls" # Defined in cultures
  hill_troll_flavor:0 "Hill Trolls had only the intelligence of the simplest of animals, making them suitable to preform heavy labour. When not dominated by a greater power, they lived in savaged packs in the mountain lands, raiding from time to time the neighbouring regions." 
- great_beast:0 "Great Beasts"
+ great_beast:0 "Große Biester"
  great_beast_flavor:0 "Whether hauling huge siege weapons, or carrying Howdahs full of troops to battle, these huge beasts were a formidable sight to behold, and it took the bravest of warriors to be able to face on in battle."
- siege_tower:0 "Siege Towers"
+ siege_tower:0 "Belagerungstürme"
  siege_tower_flavor:0 "A siege tower or breaching tower is a specialized siege engine, constructed to protect assailants and ladders while approaching the defensive walls of a fortification."
- orc_dush_hai_warband:0 "Dush-hai Warband"
+ orc_dush_hai_warband:0 "Dush-hai-Kriegstruppen"
  orc_dush_hai_warband_flavor:0 "Empowered by noxious potions and crude magics, the Dush-hai Warbands are the hammer by which the secretive cabals maintain their control over their rowdy kin."
- chosen_of_the_flamesworn:0 "Flamesworn's Chosen"
+ chosen_of_the_flamesworn:0 "Auserwählte des Flammengeschworenen"
  chosen_of_the_flamesworn_flavor:0 "Chosen by the Flamesworn himself."
- mordor_uruks:0 "Mordor Uruks"
+ mordor_uruks:0 "Mordor-Uruks"
  mordor_uruks_flavor:0 "Bred from the toughest of [orcs|E], the Uruks of [mordor|E] have raided Ithilien many times since the Fall of Minas Ithil. Forming the core fighting force of the Morgul-host, these dependable soldiers will hold the line wherever they are needed."
 
  ### Uruk-hai ###
- urukhai_skirmishers:0 "Uruk-hai Harriers"
+ urukhai_skirmishers:0 "Uruk-hai-Plünderer"
  urukhai_skirmishers_flavor:0 "Lean, nimble and resistant to sunlight. These Uruk-hai move quickly and in packs, persistantly harassing their foe with relentless fervour."
- urukhai_spearmen:0 "Uruk-hai Spearmen"
+ urukhai_spearmen:0 "Uruk-hai-Speerträger"
  urukhai_spearmen_flavor:0 "Armed with short spears and iron shields, these Uruk-hai wear light leather armour for increased mobility and fight in close defensive formations when attacked."
- urukhai_fighting:0 "Uruk-hai Heavy Swordsmen"
+ urukhai_fighting:0 "Schwere Uruk-hai-Infanterie"
  urukhai_fighting_flavor:0 "These fierce Uruk-hai are well armoured, wearing crude steel breastplate over chainmail. Hungry for battle, they form the backbone of Isengard's army."
- urukhai_pikemen:0 "Uruk-hai Pikemen"
+ urukhai_pikemen:0 "Schwere Uruk-hai-Speerträger"
  urukhai_pikemen_flavor:0 "Heavily armoured and wielding long, fierce pikes. While less mobile, these Uruk-hai can form an intimidating wall of spikes to keep their enemies at bay."
- urukhai_archers:0 "Uruk-hai Scouts"
+ urukhai_archers:0 "Uruk-hai-Späher"
  urukhai_archers_flavor:0 "Dressed in leather armour with bows fashioned from the felled yew trees around Isengard. When not lined behind infantry in battle, these archers act as the primary scout parties of any Uruk-hai host."
- urukhai_crossbowmen:0 "Uruk-hai Crossbowmen"
+ urukhai_crossbowmen:0 "Uruk-hai-Armbrustschützen"
  urukhai_crossbowmen_flavor:0 "Armed with heavy crossbows, these Uruk-hai are able to unleash a slow but steady rain of bolts down on their enemies, able to pierce even the thickest of armour."
- urukhai_warg_riders:0 "Uruk-hai Warg Riders"
+ urukhai_warg_riders:0 "Uruk-hai-Wargreiterei"
  urukhai_warg_riders_flavor:0 "Appearing as intimidating mountains on their fierce and mighty fell-wolves, these Uruk-hai tear through the flanks of enemy lines with a frightful flurry of teeth and claws."
- urukhai_sappers:0 "Uruk-hai Sappers"
+ urukhai_sappers:0 "Uruk-hai-Pioniere"
  urukhai_sappers_flavor:0 "Working in small teams, these Uruk-hai tunnel beneath enemy defences and place cannisters filled with the Fire of Isengard, taking down even the strongest of walls with explosive effect."
  urukhai_monstrosity:0 "Olog-gur Defilers"
  urukhai_monstrosity_flavor:0 "These monstrosities are the result of Saruman's dark and foul modifications to trolls native to the Misty Mountains. Heavily armoured in Isengard steel, these twisted hulks strike fear in even the strongest of hearts."
- urukhai_ballista:0 "Uruk-hai Ballista"
+ urukhai_ballista:0 "Uruk-hai-Ballisten"
  urukhai_ballista_flavor:0 "Crewed by teams of Uruk-hai engineers, these war machines wrought of wood and iron hurl javilins and rocks at enemy defences."
- urukhai_berserker:0 "Uruk-hai Berserkers"
+ urukhai_berserker:0 "Uruk-hai-Berserker"
  urukhai_berserker_flavor:0 "These Uruk-hai are even larger and more vicious than their peers. Utterly devoted to Saruman, they wield double-bent swords with finely-honed edges, capable of tearing effortlessly through leather armour and necks alike."
 
 ### Dol Guldur and Undead ###
 
- unburied_wights:0 "Morgul Wights"
+ unburied_wights:0 "Morgul-Wichte"
  unburied_wights_flavor:0 "These are wights inhabiting the embalmed bodies of great warriors, and before them the living fall to the ground, powerless. They have a grip stronger and colder than iron, and they will feast on the living."
- blighted_trappers:0 "Blighted Trappers"
+ blighted_trappers:0 "Verdorbene Fallensteller"
  blighted_trappers_flavor:0 "Parasitic spores and cling to their broken bodies. Husks with no will of their own, the blight of Dol Guldur seeps into the very veins of these former woodmen as they shamble into battle against their own people."
- giant_spiders:0 "Giant Spiders"
+ giant_spiders:0 "Riesenspinnen"
  giant_spiders_flavor:0 "The distant spawn of Ungoliant, the giant spiders have a crude but cruel intellect to them, and grow ever bolder and many as the Shadow lengthens upon the world."
 
 ### Isengard Dunlending Auxilliaries ###
 
- isengard_dunlending_huntsmen:0 "Dunlending Huntsmen"
+ isengard_dunlending_huntsmen:0 "Dunland-Jäger"
  isengard_dunlending_huntsmen_flavor:0 "Hunting is a necessity, but the game is scarce and well-adapted to the terrain of Dunland. These hunters are experts with their long knives and throwing axes."
- isengard_dunlending_axemen:0 "Dunlending Axemen"
+ isengard_dunlending_axemen:0 "Dunland-Axtkämpfer"
  isengard_dunlending_axemen_flavor:0 "Bearing axes, the men of Dunland have long learned the ways of hewing down men as they would trees."
- isengard_dunlending_horsemen:0 "Dunlending Horsemen"
+ isengard_dunlending_horsemen:0 "Dunland-Reiterei"
  isengard_dunlending_horsemen_flavor:0 "Hardy outriders, the swift horseman of harsh Dunland know how to maneuver in the hills."
 
  ### Maia ###
- rabbit_riders:0 "Rabbit Riders"
+ rabbit_riders:0 "Hasenreiterei"
  rabbit_riders_flavor:0 "#F Trained by Radagast the Brown himself, these trusty sleds rule the battlefields of the [anduinvale|E].#!"
 
 ### Usakani ###
-usakani_ambushers:0 "Ûsakani Ambushers"
+usakani_ambushers:0 "Ûsakani-Hinterhältler"
 usakani_ambushers_flavor:0 "Expert harriers and saboteurs, Ûsakani Ambushers attack by stealth, before slipping back into the jungle undetected."
 
  ### Sederi ###
- impali_tribesmen:0 "Impali Tribesmen"
+ impali_tribesmen:0 "Impali-Stammeskrieger"
  impali_tribesmen_flavor:0 "Steeped in tribal tradition, Impali Tribesmen charge into battle with fierce determination, their spears gleaming in the sun as they unleash a relentless onslaught upon their foes."
- zeba_outriders:0 "Zeba Outriders"
+ zeba_outriders:0 "Zeba-Reiterei"
  zeba_outriders_flavor:0 "Zeba Outriders, masters of both hunt and war, streak across the savanna on their striped mounts, unleashing deadly volleys of arrows and javelins upon their enemies with unrivaled precision and speed."
 
  ### Adena ###
- marshstriders:0 "Marshstriders"
+ marshstriders:0 "Sumpfläufer"
  marshstriders_flavor:0 "Aden Marshstriders are agile and elusive, navigating the treacherous terrain of Thâni-Hazad with ease. They strike swiftly from the shadows before vanishing into the marshes, leaving confusion and fear in their wake."
- matriarchs_guard:0 "Matriarch's Guard"
+ matriarchs_guard:0 "Garde der Matriarchin"
  matriarchs_guard_flavor:0 "The Matriarch's Guard, stalwart defenders sworn to protect the Aden matriarchs and their people, stand as the unwavering shield against any threat, their loyalty unyielding, their courage unmatched."
 
  ### Adena ###
- tiderunners:0 "Tiderunners"
+ tiderunners:0 "Gezeitenläufer"
  tiderunners_flavor:0 "Swift as the sea breeze, the Drel Tiderunners patrol the coastlines with a keen eye for threats, their connection to the sea woven into their very being, as they strike fear into the hearts of enemies with lightning-fast raids and ambushes along the shore."
- shorewardens:0 "Shorewardens"
+ shorewardens:0 "Küstenwächter"
  shorewardens_flavor:0 "Vigilant sentinels perched atop towering guard posts, keep watch over the coastline, their keen eyes scanning the horizon for any sign of approaching danger, ready to rain down a storm of arrows upon any who dare threaten their shores."
 
  ### Pel ###
- blacksteel_phalanx:0 "Blacksteel Phalanx"
+ blacksteel_phalanx:0 "Schwarzstahl-Phalanx"
  blacksteel_phalanx_flavor:0 "The Blacksteel Phalanx, a formidable force of Pel Pikemen, renowned for their unyielding discipline and mastery of formation fighting, their thunderous warcries striking fear into the hearts of their enemies as they advance relentlessly, a wall of black steel."
- marksmen_of_the_matron:0 "Marksmen of the Matron"
+ marksmen_of_the_matron:0 "Scharfschützen der Matrone"
  marksmen_of_the_matron_flavor:0 "The Marksmen of the Matron, elite archers steeped in ancient wisdom, inheritors of the sacred art passed down from the Cuind elves, stand as the vigilant guardians of Pel society, their arrows flying true to defend their honored matriarchs with unwavering loyalty and skill."
 
  ### Chaialla ###
- hill_stalkers:0 "Clifflings"
+ hill_stalkers:0 "Klippenjäger"
  hill_stalkers_flavor:0 "Masters of stealth and wilderness warfare, Clifflings harness the rugged terrain of their cliff-side home to their advantage, luring unsuspecting foes into cunning traps and launching devastating ambushes with their slings and clubs, leaving few survivors to tell the tale of their ferocious fury."
- silent_stingers:0 "Silent Stingers"
+ silent_stingers:0 "Lautlose Stachel"
  silent_stingers_flavor:0 "Deadly assassins of the shadows, the Silent Stingers strike with poisoned blow darts, their silent approach and lethal accuracy leaving no trace but the venomous sting of their unseen attack."
 
  ### Mag ###
- ivory_sentinels:0 "Ivory Sentinels"
+ ivory_sentinels:0 "Elfenbein-Wächter"
  ivory_sentinels_flavor:0 "Ivory Sentinels are towering guardians clad in armor of gleaming ivory, stand as the formidable bulwark of the Mag military, their imposing stature and rigorous training from youth marking them as the unyielding defenders of their people."
- zebaback_slavers:0 "Zebaback Slavers"
+ zebaback_slavers:0 "Zebaback-Sklavenhalter-Reiterei"
  zebaback_slavers_flavor:0 "Zebaback Slavers, ruthless marauders astride their powerful Zeba mounts, strike fear into enemy lands as they sweep through with lightning speed, leaving devastation in their wake and dragging captives back in chains."
 
  ### Womarin
  ## Vulmaw
- waw_pirates:0 "Waw Pirates"
+ waw_pirates:0 "Piraten von Waw"
  waw_pirates_flavor:0 "Named for the infamous Island of Waw, the pirates of the Utter South and Furthest East are feared for their reckless abandon. Each man thinks his companions poses the strength of a sea drake, and the knowledge of this falsity does little to comfort those they confidently swarm."
- vulmaw_venturers:0 "Vulmaw Venturers"
+ vulmaw_venturers:0 "Vulmaw-Abenteurer"
  vulmaw_venturers_flavor:0 "The warriors of Vulmaw are a colorful mix of the various cultures brought to the islands through equal parts adventurous spirit and a quest for freedom. This strength in diversity and fierce independance makes them worthy foes indeed."
 
 ### Ulkhash
-obsidian_warriors:0 "Obsidian Guard"
+obsidian_warriors:0 "Obsidiangarde"
 obsidian_warriors_flavor:0 "Bedecked head-to-toe in black glass, the Obsidian Guard are armed with flat iron clubs coated with thin blades of razor-sharp obsidian that shatter on impact."

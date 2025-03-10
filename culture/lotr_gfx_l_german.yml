@@ -97,35 +97,35 @@
  dwarf_unit_gfx:0 "Dwarven"
  
  # Architecture
- akan_building_gfx:0 "Akan"
- baltic_building_gfx:0 "North-western Bórian" # Balto-Finnic
- brythonic_building_gfx:0 "Gwaithuirim" # Brythonic
- chinese_building_gfx:0 "Shen" # East Asian
- cemanahuac_building_gfx:0 "Nâfarati" # Mesoamerican
- egyptian_building_gfx:0 "Nubian" # Archaic Egyptian
- ethiopian_building_gfx:0 "Ethiopian"
- germanic_building_gfx:0 "Germanic"
- goidelic_building_gfx:0 "Dunnish" # Celtic
- guinean_building_gfx:0 "Guinean"
- haudenosaunee_building_gfx:0 "Haudenosaunee"
- levantine_building_gfx:0 "Levantine"
- sahelian_building_gfx:0 "Sahelian"
- slavic_building_gfx:0 "Rhûnnic Woodlands" # Slavic
- sea_building_gfx:0 "Râyan" # Southeast Asian
- tawantinsuyu_building_gfx:0 "Tawantinsuyu" # Incan
- tibetan_building_gfx:0 "Tibetan"
- turkic_building_gfx:0 "Abrakhânese" # Turkic, Sogdian, Samarkand
+ akan_building_gfx:0 "Akanisch"
+ baltic_building_gfx:0 "Nordwest-Bórianisch" # Balto-Finnic
+ brythonic_building_gfx:0 "Gwaithuirimisch" # Brythonic
+ chinese_building_gfx:0 "Shenisch" # East Asian
+ cemanahuac_building_gfx:0 "Nâfaratisch" # Mesoamerican
+ egyptian_building_gfx:0 "Nubisch" # Archaic Egyptian
+ ethiopian_building_gfx:0 "Ethiopisch"
+ germanic_building_gfx:0 "Germanisch"
+ goidelic_building_gfx:0 "Dunnisch" # Celtic
+ guinean_building_gfx:0 "Guineisch"
+ haudenosaunee_building_gfx:0 "Haudenosauneeisch"
+ levantine_building_gfx:0 "Levantisch"
+ sahelian_building_gfx:0 "Sahelisch"
+ slavic_building_gfx:0 "Rhûnnisch-Waldländisch" # Slavic
+ sea_building_gfx:0 "Râyanisch" # Southeast Asian
+ tawantinsuyu_building_gfx:0 "Tawantinsuyuisch" # Incan
+ tibetan_building_gfx:0 "Tibetanisch"
+ turkic_building_gfx:0 "Abrakhânisch" # Turkic, Sogdian, Samarkand
  # Realms Architecture
- dwarven_building_gfx: "Dwarven"
- elven_building_gfx:0 "Elven"
- hobbit_building_gfx:0 "Hobbitish" # Is there a better adjective for Hobbit architecture?
- noldor_building_gfx:0 "Noldorin"
- arnorian_building_gfx:0 "Númenórean"
- numenorean_building_gfx:0 "Númenórean"
- orc_building_gfx:0 "Uruk"
- rhun_building_gfx:0 "Rhûnnic"
- rohirrim_building_gfx:0 "Rohirrim"
- caledhrim_building_gfx:0 "Caledhrim"
+ dwarven_building_gfx: "Zwergisch"
+ elven_building_gfx:0 "Elbisch"
+ hobbit_building_gfx:0 "Hobbitisch" # Is there a better adjective for Hobbit architecture?
+ noldor_building_gfx:0 "Noldorisch"
+ arnorian_building_gfx:0 "Númenórisch"
+ numenorean_building_gfx:0 "Númenórisch"
+ orc_building_gfx:0 "Orkisch"
+ rhun_building_gfx:0 "Rhûnisch"
+ rohirrim_building_gfx:0 "Rohanisch"
+ caledhrim_building_gfx:0 "Caledhrimisch"
  
  
  
