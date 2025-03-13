@@ -146,76 +146,76 @@
 
  ## Kinn-lai ##
  annammon_kin:0 "Annammon-Kin"
- annammon_kin_flavor:0 "The Mûmakil of the Kinn-lai bond with their handlers at a young age, training and perfecting their technique over the course of decades, until, it is said, both beast and rider share a single mind."
+ annammon_kin_flavor:0 "Die Mûmakil der Kinn-lai gehen schon jung eine tiefe Bindung mit ihren Aufsehern ein. Sie trainieren und perfektionieren ihre Fähigkeiten in solch einer Weise, dass manche sogar sagen, sie würden einen Geist besitzen."
  kinnlai_skirmishers:0 "Kinn-lai-Meister"
- kinnlai_skirmishers_flavor:0 "Martial artists skilled in the ways of unarmed combat, Kinn-lai Masters train both their body and soul."
+ kinnlai_skirmishers_flavor:0 "Kampfkünstler mit außerordentlichen Fähigkeiten im Hand-zu-Hand-Kampf. Kinn-lai-Meister stählen nicht nur ihren Körper, sondern auch ihren Geist."
  
  ### Dwarven ###
  ## Longbeards ##
  longbeard_skirmishers:0 "Craban Azgîth"
- longbeard_skirmishers_flavor:0 "The "Raven Eyes" make use of the ancient Longbeard tradition of speaking with the highly intelligent Ravens of Erebor and the Iron Hills."
+ longbeard_skirmishers_flavor:0 "Die 'Rabenaugen' nutzen uraltes Wissen der Langbärte, um mit den hochintelligenten Raben des Erebors und der Eisenberge zu kommunizieren."
  longbeard_heavy_infantry:0 "Sigin Baruk"
- longbeard_heavy_infantry_flavor:0 "The "Long Axes" are renowned and feared for their staunch armor and devestating blows." 
+ longbeard_heavy_infantry_flavor:0 "Die 'Langäxte' sind bekannt für ihre eisernen Rüstungen und vernichtenden Schlägen." 
  longbeard_crossbowmen:0 "Zirin Shathur"
- longbeard_crossbowmen_flavor:0 "The "Iron Rain" provide devastating volleys of bolts into their foes. The tight underground corridors of the Longbeards become a hopeless deathtrap, where intruders realize there is no place to hide." 
+ longbeard_crossbowmen_flavor:0 "Die 'Regenmacher' lassen einen stetigen Regen aus Bolzen auf ihre Feinde fallen." 
  longbeard_pikemen:0 "Klethuhûr"
- longbeard_pikemen_flavor:0 "The "Steel Forest" are a well recognized sight in Longbeard delvings. Their phalanx formations an immovable wall, preventing all foes of the Sigin-tarâg from gaining an inch of ground." 
+ longbeard_pikemen_flavor:0 "Die 'Stahlwälder' sind ein bekannter Anblick unter den Langbärten. Ihre Formationen bilden eine unbewegliche Mauer, welche jeden Gegner davon abhält, gegen sie vorzudringen." 
  longbeard_cavalry:0 "Setfôn Thârag"
- longbeard_cavalry_flavor:0 "The house of the Longbeards is the only Dwarven house to have adopted widespread domestication of any animals. As a result the Sigin-tarâg are the only Dwarves to field cavalry. Riding war bred rams into battle, enemy horses would do well to stay away." 
+ longbeard_cavalry_flavor:0 "Die Zwerge der Langbärte sind die einzigen, die erfolgreich wilde Tiere gezähmt und domestiziert haben. Dadurch sind die Sigin-tarâg die einzigen Zwerge, welche eine Reiterei besitzen. Mit ihren Kriegsböcken sollten sich feindliche Pferde lieber fernhalten." 
  longbeard_horse_archers:0 "Higêm Thinbîn"
- longbeard_horse_archers_flavor:0 "The "Rolling Thunder"."
+ longbeard_horse_archers_flavor:0 "Der 'Rollende Donner'."
  
  ## Firebeards ##
  firebeard_skirmishers:0 "Shumzrâkâz" #Flame Wardens
- firebeard_skirmishers_flavor:0 "The Flame Wardens serve as guards for mining operations throughout the Holds. They have perfected the art of intimidation, in order to deter any would be troublemakers."
+ firebeard_skirmishers_flavor:0 "Die 'Flammenwächter' dienen als Geleitschutz für Bergbauexpeditionen. Um mögliche Gefahren abzuwehren haben sie die Kunst der Einschüchterung gemeistert."
  firebeard_heavy_infantry:0 "Beblêl Ishmirî"
- firebeard_heavy_infantry_flavor:0 "The "Brazen Guard" protect the King of the Firebeards and follow him wherever he may go." 
+ firebeard_heavy_infantry_flavor:0 "Die 'Bronzene Garde' beschützt den König der Feuerbärte und folgt ihm auf Schritt und Tritt." 
  firebeard_archers:0 "Hurzu Tumnu"
- firebeard_archers_flavor:0 "The "Rangers of the Vale" patrol the eastern Blue Mountains from any perceived threat. As the outside world is full of unknown threats, these Dwarves cannot slacken their watchfulness." 
+ firebeard_archers_flavor:0 "Die 'Wächter des Tals' patrouillieren den Osten der Blauen Berge. Aufgrund der Tücke der Außenwelt wachen die Zwerge Tag und Nacht." 
  firebeard_pikemen:0 "Ashur Thargu"
- firebeard_pikemen_flavor:0 "The "Smoke Pillars" consist mainly of younger Firebeards from Buzra-dûm. They train for countless hours in order to defend their hard won peaceful life, unbothered by the troubles of the outside world." 
+ firebeard_pikemen_flavor:0 "Die 'Rauchsäulen' bestehen hauptsächlich aus jüngeren Zwergen aus Buzra-dûm. Sie trainieren etliche Stunden um ihre hart erkämpfte Freiheit wenn nötig auch mit Waffengewalt zu verteidigen." 
  firebeard_monsters:0 "Gozig Farâs"
- firebeard_monsters_flavor:0 "The "Drake Maws" have been renowned across Dwarfdom since time immemorial. With their ability to spread fire at will, they wreak havok on enemy morale. Though many millennia has passed, they are still feared for being as monsterous as the foes they face in battle." 
+ firebeard_monsters_flavor:0 "Die 'Drachenmäuler' sind schon seit dem Anbeginn der Zeit unter den Zwergen bekannt. Mit ihrer Fähigkeit ähnlich wie ein Drache Feuer zu speien, zerschlagen sie die Moral ihrer Feinde. Trotz der vielen Jahrtausende, welche schon vergangen sind, entfachen sie noch immer die selbe Angst in ihren Feinden." 
  
  ## Broadbeams ##
  broadbeam_skirmishers:0 "Khaglâ Barâk" #Blue Axes
- broadbeam_skirmishers_flavor:0 "The "Blue Axes" patrol the Ancient Halls and mountain trails of the northern Blue Mountains. While threats to their mountain homes have lessened as the world ages and their people falter, these Dwarves maintain their vigilance and discipline."
+ broadbeam_skirmishers_flavor:0 "Die 'Blauen Äxte' patrouillieren die uralten Hallen und Bergpässe der Blauen Berge. Obwohl die Zahl ihrer Feinde deutlich zurückgegangen ist, bleiben die Zwerge wachsam."
  broadbeam_heavy_infantry:0 "Ashâmur Gabilgathol" #Gabilgathol Guardians
- broadbeam_heavy_infantry_flavor:0 "The "Gabilgathol Guardians" have defended Belegost since before the first dawn. Their gold plated armor is emblematic of the vast wealth once found in their Mansions. Their wealth is diminished, yet their defiance is resolute as ever."
+ broadbeam_heavy_infantry_flavor:0 "Die 'Wächter von Gabilgathol' dienten schon als Beschützer Belegosts vor dem ersten Morgen. Ihre mit Gold besetzten Rüstungen sind ein Testament für den Reichtum, welcher in ihren Hallen zu finden ist. Ihr Reichtum ist lange aufgebraucht, ihr Wille aber nicht."
  broadbeam_dragonslayers:0 "Drachentöter"
- broadbeam_dragonslayers_flavor:0 "Dragonslayers have been dreaded across the field of battle since before the Dragons they are so known for slaying, first came to be. Their numbers have vastly diminished by the Third Age; yet when gathered together, they fight as ghosts of the Elder Days"
+ broadbeam_dragonslayers_flavor:0 "Drachentöter waren schon bevor sie ihren Namen bekommen haben eine gefürchtete Einheit. Ihr Anzahl ist stark gesunken seit dem Beginn des Dritten Zeitalters, doch wenn sie zusammenkommen, kämpfen sie noch wie in alten Zeiten."
  broadbeam_crossbowmen:0 "Fantnuhûb Karashu" #Broadbeam Marksmen
- broadbeam_crossbowmen_flavor:0 "The "Broadbeam Marksmen" wield masterwork crossbows. The twin arts of crafting and wielding these weapons have been cultivated with time, with whole Clans dedicated to managing the Guilds that produce them, while others pass down their skills in wielding the weapons from father to son" 
- broadbeam_pikemen:0 "Fahamgathôl Sentries" #Northern Fortress Sentries
- broadbeam_pikemen_flavor:0 "The Sentries of the "Northern Fortress" guard the reaches of Broadbeam lands. Secure in their mountaintop seat, the Sentries watch over the Blue Mountains, ceaselessly."
+ broadbeam_crossbowmen_flavor:0 "Die 'Breitstamm-Scharfschützen' nutzen meisterhafte Armbrüste. Die Kunst, diese Waffen herzustellen und zu benutzen, ist so wichtig für die Zwerge, dass sich ganze Häuser und Gilden um sie herum geformt haben." 
+ broadbeam_pikemen:0 "Fahamgathôl-Wächter" #Northern Fortress Sentries
+ broadbeam_pikemen_flavor:0 "Die Wächter der 'Nördlichen Festung' beschützen die Grenzen der Breitstämme. Von ihrer sicheren Festung in den Bergen aus beschützen sie die gesamten Blauen Berge."
 
  ## Blacklocks ##
  blacklock_skirmishers:0 "Naragzanât Buh" #Blacklock Company
- blacklock_skirmishers_flavor:0 "The "Blacklock Companies" are a common sight in the Utter South of Middle Earth. These adventurers and mercenaries often form hosts of zealous Blacklocks. Wielding their individual weapons of choice, they are equipped with light armor to better traverse the vast distances they must travel to hunt the servants of the great enemy."
+ blacklock_skirmishers_flavor:0 "Die 'Schwarzschmied-Gefährten' sind ein täglicher Anblick im äußersten Süden Mittelerdes. Diese Abenteurer und Söldner finden sich meist in Rotten zusammen und nutzen ihre leichten Rüstungen zu ihrem Vorteil im Kampf gegen ihre Feinde."
  blacklock_heavy_infantry:0 "Azâruk'Azâgh" #Masters of War
- blacklock_heavy_infantry_flavor:0 ""Masters of War" are renowned and feared by all servants of the great enemy. Adept in many climates and terrain. Many peoples from Mumakan to Womawas have avoided turning to shadow by these champions, whose skill is only rivaled by zeal."
+ blacklock_heavy_infantry_flavor:0 "Die 'Meister des Krieges' werden von allen ihren Feinden gefürchtet. Sie sind für alle möglichen Witterungen und Begebenheiten ausgestattet."
  blacklock_crossbowmen:0 "Isbêj Tahfâ'urd" #Yellow Mountains Scouts
- blacklock_crossbowmen_flavor:0 "The "Yellow Mountains Scouts" venture across the hillsides, always on the watch for their foul foes." 
+ blacklock_crossbowmen_flavor:0 "Die 'Späher von den Gelben Bergen' reisen durch Bergpässe und Hügel, immer mit einem Auge für Gefahren." 
  blacklock_pikemen:0 "Naikhdiri" #Companion Wall
- blacklock_pikemen_flavor:0 "Blacklock warriors spend more time with their brothers in arms than their families. becoming true "Companion Walls". Wether guarding War Mansions while the host is on campaign, or fighting as mercenaries, they are always prepared for combat."
+ blacklock_pikemen_flavor:0 "Die Krieger der Schwarzschmiede verbringen mehr Zeit mit ihren Waffenbrüdern als mit ihren Familien. Dadurch werden sie wahre Schlachtkumpanen."
  blacklock_engineers:0 "Schwarzschmied-Pioniere"
- blacklock_engineers_flavor:0 "Masters of constuction and excavation, these Dwarves can both swifty raise and lower halls. They are armed with "Blacklock powder", a inelegant excavation tool now turned to martial work."
+ blacklock_engineers_flavor:0 "Als meister der Ingenieurskunst und des Grabens, sind sie eine unglaubliche Macht der Zwerge. Ihr Schwarzschmied-Pulver kann nicht nur für Ausgrabungszwecke verwendet werden."
 
  ## Stiffbeards ##
  stiffbeard_skirmishers:0 "Zarsthu Balrâk" #Frigid Forest Wardens
- stiffbeard_skirmishers_flavor:0 "The "Frigid Forest Wardens" act as scouts and rangers, patrolling the entrances to the various Holds. They use their Great Axes to cut through forests and organize surprise attacks on the enemy forces."
+ stiffbeard_skirmishers_flavor:0 "Die 'Wächter des Eiskalten Waldes' fungieren als Späher und beschützen die verschiedenen Hallen der Zwerge. Sie nutzen ihre Großäxte um sich durch Wälder zu schlagen und planen so Überraschungsangriffe."
  stiffbeard_heavy_infantry:0 "Balb'urs" #Iceflame
- stiffbeard_heavy_infantry_flavor:0 "The "Iceflame" are the core force of the Stiffbeard Army. Their extreme stubbornness has over the centuries hardened them into unyielding walls that perform feats of valour unmatched by any of the Khazad. Though they gain little fame or recognition, it is in large part by their hard work that the few remaining Holds are able to survive amidst the constant onslaught of Orcs."
+ stiffbeard_heavy_infantry_flavor:0 "Die 'Eisflammen' sind das Rückgrat der Armee der Steifbärte. Ihr extreme Sturheit hat sie zu einer unbrechbaren Einheit geformt und ihnen ist es zu verdanken, dass viele Hallen der Zwerge noch nicht von Orks und Goblins überrannt worden sind."
  stiffbeard_crossbowmen:0 "Ihkhêd Bagd" #Biting Wind
- stiffbeard_crossbowmen_flavor:0 "The "Biting Wind" supports the main force by dealing casualties from across the battlefield. They wield throwing axes to great effect, seemingly as if the Winter Wind itself was arrayed against their foes." 
+ stiffbeard_crossbowmen_flavor:0 "Der 'Beißende Wind' unterstützt die Hauptkampfeinheiten, in dem sie dem Feind von hinten Schaden zufügen. Die Technik mit ihren Wurfäxten haben sie so perfektioniert, dass sie wie ein kalter Windstoß auf ihre Feinde niederprasseln." 
  stiffbeard_pikemen:0 "Mebeltarg Marâkh" #Mebeltarg Marâkh
- stiffbeard_pikemen_flavor:0 "The "Stiffbeard Shields" make up most of the Stiffbeard Army. Due to the extremely low temperatures, they mostly use furs with some iron pieces. However, their spears and shields excel in enclosed spaces, and help hold back the tidal wave of enemy attacks."
+ stiffbeard_pikemen_flavor:0 "Die 'Steifbart-Schilde' machen einen Großteil der Armee der Steifbärte aus. Aufgrund der extremen Temperturen nutzen sie dicke Felle als Rüstung. Ihre Speere sind besonders gut für die engen Passagen und Hallen der Zwerge geeignet."
 
  undying_of_khazad_dum:0 "Nêmahinkhêd" #Undying
- undying_of_khazad_dum_flavor:0 "The ancient and elite forces of Khazad-dûm, the "Undying" bear great blades, ornate armor, and are rumored to gird themselves with mithril chainmail."  
+ undying_of_khazad_dum_flavor:0 "Die uralten Eliteeinheiten Khazad-dûms, genannt 'Die Unsterblichen', tragen kunstvolle Rüstung und es wird ihnen nachgesagt, Mithril-Kettenhemden zu tragen."  
 
  blacklock_mercenaries:0 "Schwarzschmied-Söldner"
- blacklock_mercenaries_flavor:0 "Blacklock Mercenary Description"
+ blacklock_mercenaries_flavor:0 "Beschreibung fehlt noch im Englischen -BA"
 
  ### Aduniac ###
  ## Black Numenorean ##
@@ -375,7 +375,7 @@ usakani_ambushers_flavor:0 "Expert harriers and saboteurs, Ûsakani Ambushers at
  ### Mag ###
  ivory_sentinels:0 "Elfenbein-Wächter"
  ivory_sentinels_flavor:0 "Ivory Sentinels are towering guardians clad in armor of gleaming ivory, stand as the formidable bulwark of the Mag military, their imposing stature and rigorous training from youth marking them as the unyielding defenders of their people."
- zebaback_slavers:0 "Zebaback-Sklavenhalter-Reiterei"
+ zebaback_slavers:0 "Zebarücken-Sklaventreiber"
  zebaback_slavers_flavor:0 "Zebaback Slavers, ruthless marauders astride their powerful Zeba mounts, strike fear into enemy lands as they sweep through with lightning speed, leaving devastation in their wake and dragging captives back in chains."
 
  ### Womarin
